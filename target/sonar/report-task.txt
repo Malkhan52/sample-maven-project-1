@@ -1,0 +1,6 @@
+projectKey=com.sapient:sample-maven-project
+serverUrl=http://localhost:9000
+serverVersion=9.0.0.45539
+dashboardUrl=http://localhost:9000/dashboard?id=com.sapient%3Asample-maven-project
+ceTaskId=AXrSgCC1owPY0sbhnOFZ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXrSgCC1owPY0sbhnOFZ
